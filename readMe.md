@@ -1,9 +1,10 @@
-#Origamid Courses
+# Origamid Courses
 
 👓 My progress in UX, UI & Front End studies and Origamid Projects
+
 🎯 Goal: Be a Front-end Expert in six months
 
-🔳 HTML e CSS para Iniciantes
+🔳 HTML e CSS para Iniciantes ⌛
 
 ⬜ UI Design Avançado
 
