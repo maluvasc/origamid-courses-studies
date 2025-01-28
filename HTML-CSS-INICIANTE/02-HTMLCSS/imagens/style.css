@@ -1,0 +1,8 @@
+body {
+  width: 405px;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}

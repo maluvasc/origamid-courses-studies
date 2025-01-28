@@ -1,0 +1,20 @@
+#titulo {
+  color: tomato;
+}
+
+.carrosClasse {
+  color: blueviolet;
+}
+
+.BicicletaClasse {
+  color: forestgreen;
+}
+
+.carrosClasse,
+.BicicletaClasse {
+  text-decoration: none;
+}
+
+.tamanhoLink {
+  font-size: 32px;
+}

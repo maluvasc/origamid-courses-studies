@@ -1,0 +1,69 @@
+Caminho Relativo
+/index.html -> vai para o index.html da pasta base
+../index.html -. Voltar pasta anterior
+index.html ou ./index.hmtl -> minha pasta atual!
+
+CSS
+Estilo em cascata, a última modificação impera sobre a tag
+
+CSS Seletores
+h1, p -> adiciona multiplos elementos (,)
+p a -> adiciona as mudanças em todos os links que tem um paragráfo como pai
+html body a -> todos os links dentro do body
+
+Id 
+identificador único usado com #
+X
+Classe 
+identificador não único usado com .
+
+Box Model
+conteudo = width x height
+width e height mudam com border + margin + padding
+
+Padding
+Margem interna
+
+Margin 
+Margem externa (entre elementos)
+Margem colidem e a maior vence entre espaçamentos de objetos
+
+Div
+Agrupar elementos
+seu padrão é width auto
+
+CSS: inherit
+color, font-size, font-family herdarão do elemento pai
+
+Elementos de Bloco
+Como h1 e div, cria um bloco novo quebrando o texto em linhas
+
+display: inline 
+Repeita o fluxo da escrita sem iniciar nova linhas. Não aceita valores de width, height ou margin
+
+display: block
+Inicia uma nova linha e não permite que outros elementos sejam posicionados em sua linha. Aceita propriedades do box model.
+
+display: none
+Remove o elemento da tela
+
+display: inline-block
+O elemento continua inline mas pode receber propriedades do box model
+
+img
+tag <img>. Para melhor resolução, usar uma imagem que tenha o dobro do tamanho que vai ocupar na tela.
+
+src
+Caminho ou link da imagem
+
+alt
+Texto alternativo (acessibilidade)
+
+max-width: 100%
+Definido para não crescer mais que o elemento pai
+
+svg
+Código para criar imagem, vantagem: mudar cor e não perder qualidade e fundo transparente
+
+site para imagens: https://unsplash.com/pt-br
+compactar imagem: https://squoosh.app/
