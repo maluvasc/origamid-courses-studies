@@ -1,0 +1,15 @@
+span {
+  display: inline-block;
+  background-color: #000;
+  color: aliceblue;
+}
+
+span {
+  padding: 50px 150px 20px 150px;
+  border: blue solid;
+  border-width: 30px 60px;
+}
+
+h1 {
+  margin-block-start: 30px;
+}

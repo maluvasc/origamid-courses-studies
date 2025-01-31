@@ -1,0 +1,19 @@
+Top, right, bottom , left
+ordem para usar padding, margin, border etc
+
+Grid
+> Grid Template Columns
+Iniciar colunas
+> fr
+Fracionar os itens em partes iguais
+> gap
+Espaçamento entre itens
+
+Justify Content e Align content
+Quando se usa o fr para fracionar os itens na tela não funciona o justify content ou align, pois não tem espaço sobrando para os elementos se ajustarem.
+
+auto
+Usar auto nas colunas faz com que os itens tentem se esticar de ponta aponta imitando o maiorento disponível 
+
+Place content
+Atalho para align e justify
